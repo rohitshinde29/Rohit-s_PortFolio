@@ -1,0 +1,19 @@
+h1 {
+  font-size: 40px;
+  font-family: monospace;
+}
+#title{
+  background-color: #d3d3d3;
+  padding: 20px;
+  text-align: center;
+}
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+#tribute-info{
+  background-color: #d3d3d3;
+  padding: 20px;
+}

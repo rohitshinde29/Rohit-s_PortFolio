@@ -1,0 +1,25 @@
+.head
+{
+    text-align: center;
+}
+#main
+{
+    color: blue;
+}
+table
+{
+    /* margin-top: 20px; */
+    border: 5px inset;
+    border-right: 2px red  inset;
+    border-bottom: 2px blue  ;
+}
+th
+{
+    background-color: yellow;
+    padding: 10px;
+}
+td
+{
+    padding: 10px;
+    
+}
